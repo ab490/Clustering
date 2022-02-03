@@ -139,12 +139,12 @@ dbscan(5,10)
 
 
 #A
-#ans1
+#1
 K=[2,5,8,12,18,20]  
 for m in K:
     KNN(m)
     
-#ans2
+#2
 K=[2,5,8,12,18,20]  
 for m in K:   
     GMM(m)
